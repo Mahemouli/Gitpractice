@@ -11,6 +11,8 @@ open command prompt >check git installed or not
 *git push origin main
 *any modification like update,delete,edit done in existing file need to be git add, git commit & push to git hub
 * Git Pull (any modification done in git hub, only changes will be reflected in local)
-
+*git remote add origin https://github.com/Mahemouli/Gitpractice1.git
+*git branch -M main
+*git push -u origin main
 
 
