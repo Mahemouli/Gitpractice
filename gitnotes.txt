@@ -11,6 +11,9 @@ open command prompt >check git installed or not
 *git push origin main
 *any modification like update,delete,edit done in existing file need to be git add, git commit & push to git hub
 * Git Pull (any modification done in git hub, only changes will be reflected in local)
+* create a new folder in local & give git init to add .git hidden folder
+* create a repository in git hub to link local connection & copy URL to establish Connection
+* change master branch to main branch using below commands
 *git remote add origin https://github.com/Mahemouli/Gitpractice1.git
 *git branch -M main
 *git push -u origin main
