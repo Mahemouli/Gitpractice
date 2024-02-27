@@ -6,7 +6,10 @@ open command prompt >check git installed or not
 *git config --global user.email "maheshmouli6988@gmail.com"
 
 *git clone https://github.com/Mahemouli/Gitpractice.git
-*
+*git add test.txt
+*git commit -m "first commit"
+*git push origin main
+
 
 
 
