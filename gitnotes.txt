@@ -1,0 +1,12 @@
+Git Installation in windows
+download git.exe from internet & install
+open command prompt >check git installed or not
+
+*git config--global user.name "Mahemouli"
+*git config --global user.email "maheshmouli6988@gmail.com"
+
+*git clone https://github.com/Mahemouli/Gitpractice.git
+*
+
+
+
