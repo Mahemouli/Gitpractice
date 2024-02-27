@@ -9,7 +9,8 @@ open command prompt >check git installed or not
 *git add test.txt
 *git commit -m "first commit"
 *git push origin main
-
+*any modification like update,delete,edit done in existing file need to be git add, git commit & push to git hub
+* Git Pull (any modification done in git hub, only changes will be reflected in local)
 
 
 
